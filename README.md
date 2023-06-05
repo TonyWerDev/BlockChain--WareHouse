@@ -1,7 +1,7 @@
 > **Estado de las pruebas**
 > La versión 1.0 está en desarrollo activo.
 
-# ![BlockChain]() Blockchain para trazabilidad de ensamblajes en Smart Factory
+# !Blockchain para trazabilidad de ensamblajes en Smart Factory
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" width="200" />
@@ -20,9 +20,7 @@
          <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" **alt="NodeJS" width="40" height="40"/> 
          <img src="https://github.com/ethereum/ethereum-org-website/blob/dev/src/assets/favicon.png" title="Sepolia" **alt="Sepolia" width="40" height="40"/> 
          <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Berrypi" **alt="Berrypi" width="40" height="40"/>
-
-      </div>
-
+    </div>
 </div>
 
 ## Preliminary considerations
